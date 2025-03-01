@@ -1,4 +1,4 @@
-## Hi there 👋  
+## Hello my world! 👋  
 
 ### 🚀 About Me  
 💻 **Aspiring Embedded Systems & Software Developer**  
